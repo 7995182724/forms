@@ -1,0 +1,14 @@
+h1{
+    color: brown;
+}
+
+p{
+    color: ;
+}
+body{
+    background-color: aquamarine;
+    background-image: url(https://i.pinimg.com/736x/1e/e5/4d/1ee54dc0f0e4bf66a7cb8c72495697b4.jpg); url(background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
